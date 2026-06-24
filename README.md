@@ -26,7 +26,7 @@ cell holds one tile from a fixed vocabulary:
 | Stairs | D, E, D1, E1 | Connect the two levels; one face + one opposite side |
 | Blank | BL | Empty slot enabling tile slides |
 
-(View **Arrangement of Tiles.png** for getting th exact visualization)
+(View ![Arrangement of Tiles](Arrangement%20of%20Tiles.png) for getting th exact visualization)
 
 A **pawn** occupies one tile.  Two operations are available each turn:
 
