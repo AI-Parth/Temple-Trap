@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/build-CMake-lightgrey"/>
 </p>
 
-A complete, production-quality C++ rewrite of the **Temple Trap** sliding-tile
+A complete, production-quality C++ write of the **Temple Trap** sliding-tile
 puzzle solver and visualizer.  The solver uses an optimised A\* search on a
 compact bitpacked state representation; the visualizer renders the solution
 path interactively with SFML.
